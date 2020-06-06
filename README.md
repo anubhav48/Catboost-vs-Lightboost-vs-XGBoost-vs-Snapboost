@@ -1,3 +1,3 @@
-# Catboost-vs-Lightboost-vs-XGBoost-on-Poekmon-Dataset
-A comparison of 3 boosting algorithm on pokemon dataset
-The dataset can be downloaded from kaggle
+# Catboost-vs-Lightboost-vs-XGBoost-vs-Snapboost
+A comparison of 4 boosting algorithm on various datasets
+
