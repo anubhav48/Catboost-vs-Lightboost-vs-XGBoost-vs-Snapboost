@@ -20,7 +20,7 @@ Shyam R(Numerical Dataset)
 
 Anubhav Singh(Categorical Dataset)
 
-Ayachit Sayee(Image Dataset)
+Ayachit Sai Sanjay(Image Dataset)
 
 Vinayak Patil(Temporal Dataset)
 
