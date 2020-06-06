@@ -12,4 +12,4 @@ The inspiration of temporal dataset was taken from https://www.google.com/url?sa
 
 For more details about SnapBoost visit https://ibmsoe.github.io/snap-ml-doc/v1.6.0/manual.html#snap-boost.
 
-This project was conducted as a part of IBM Remote Mentorship program under the guidance of Mr. Sangeeth Keeriyadath(Mentor,Part of IBM Watson distributed Machine Learning Frameworks) and Prof. Abhinandan S.P.(Mentor,Professor and at "The National Institute Of Engineering,Mysore).
+This project was conducted as a part of IBM Remote Mentorship program under the guidance of Mr. Sangeeth Keeriyadath(Mentor,Part of IBM Watson distributed Machine Learning Frameworks) and Prof. Abhinandan S.P.(Mentor,Professor and at The National Institute Of Engineering,Mysore).
