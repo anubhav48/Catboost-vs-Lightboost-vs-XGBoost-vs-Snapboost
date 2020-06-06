@@ -11,3 +11,5 @@ The inspiration of numeric dataset was taken from https://towardsdatascience.com
 The inspiration of temporal dataset was taken from https://www.google.com/url?sa=t&source=web&rct=j&url=https://towardsdatascience.com/using-gradient-boosting-for-time-series-prediction-tasks-600fac66a5fc&ved=2ahUKEwj3lv2p4-zpAhXLXisKHaPTDT4QjjgwAnoECAEQAg&usg=AOvVaw1r16QPIth64OJC7U6C9rhZ&cshid=1591432433220
 
 For more details about SnapBoost visit https://ibmsoe.github.io/snap-ml-doc/v1.6.0/manual.html#snap-boost.
+
+This project was conducted as a part of IBM Remote Mentorship program under the guidance of Mr. Sangeeth Keeriyadath(Mentor,Part of IBM Watson distributed Machine Learning Frameworks) and Prof. Abhinandan S.P.(Mentor,Professor and at "The National Institute Of Engineering,Mysore).
