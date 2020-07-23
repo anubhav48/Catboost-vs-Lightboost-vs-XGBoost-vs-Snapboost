@@ -8,7 +8,7 @@ The inspiration for image dataset was taken from https://setscholars.net/2020/03
 
 The inspiration of numeric dataset was taken from https://towardsdatascience.com/become-a-pok%C3%A9mon-master-with-machine-learning-f61686542ef1
 
-The inspiration of temporal dataset was taken from https://www.kaggle.com/paulbrabban/daily-minimum-temperatures-in-melbourne0
+The inspiration of temporal dataset was taken from https://www.kaggle.com/paulbrabban/daily-minimum-temperatures-in-melbourne
 
 For more details about SnapBoost visit https://ibmsoe.github.io/snap-ml-doc/v1.6.0/manual.html#snap-boost.
 
